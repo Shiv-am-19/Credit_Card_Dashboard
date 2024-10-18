@@ -1,5 +1,5 @@
 # Credit_Card_Dashboard
-                      Power Bi Dashboard
+            POWER BI DASHBOARD
 Overview: 
     Microsoft Power BI was used to construct the dynamic and interactive analytical tool, the Credit Card Dashboard. It is intended to offer thorough insights about credit card usage, spending patterns, and financial stability. This dashboard lets Users see data, spot trends, and make wise financial decisions.
 
