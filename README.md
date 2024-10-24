@@ -14,7 +14,6 @@ Features :
 Application :
     Examine the Dashboard: Go through the numerous sections to examine various facets of the credit card information. Utilize slicers and filters to go into particulars.
     Customize Visuals: To fit your demands, upload new images or alter the ones that already exist. Customize the dashboard with Power BI by using the drag-and-drop interface.
-    Save Custom Views: To save customized views, create a new dashboard version and select File > Save As.
 
 Requirements :
     Microsoft Power BI Desktop or Power BI Service
